@@ -1,0 +1,41 @@
+0 RX --> Bluetooth TX
+1 TX --> Bluetooth RX
+
+2 Motor Speed PWM (FrontRight)
+3 Motor Speed PWM (FrontLeft)
+4 Motor Speed PWM (RearRight)
+5 Motor Speed PWM (RearLeft)
+6 Ultrasonic1 Trig
+7 Ultrasonic1 Echo
+8 Ultrasonic2 Trig
+9 Ultrasonic2 Echo
+10 Servo PWM
+11 I2C SDA (compass)
+12 I2C SCL (compass)
+
+20 IR Sensor (SDA) 
+21 IR Sensor (SCL)
+22 redLED
+23 greenLED
+24 button
+33 Reverse Motor (FrontRight)
+34 Enable Motor (FrontRight)
+35 Reverse Motor (FrontLeft)
+36 Enable Motor (FrontLeft)
+37 Reverse Motor (RearRight)
+38 Enable Motor (RearRight)
+39 Reverse Motor (RearLeft)
+40 Enable Motor (RearLeft)
+41 Relay Switch
+42 Bluetooth State
+43 Bluetooth Enable
+
+A0 Voltage Sensor
+A8 HallSensor A (FrontLeft)
+A9 HallSensor B (FrontLeft)
+A10 HallSensor A (FrontRight)
+A11 HallSensor B (FrontRight)
+A12 HallSensor A (RearLeft)
+A13 HallSensor B (RearLeft)
+A14 HallSensor A (RearRight)
+A15 HallSensor B (RearRight)
