@@ -9,11 +9,14 @@ The calibration.ino and odometry.ino files show the detailed implementation.
 The motion of the robot is implemented by motion.ino file. We used skid-steering as the turning mechanism, and 
 we also implemented robust PI controller to maintain constant motor speed for smooth turning and terrain adaptability.
 
+Final poster can be found [here](https://github.com/yymmaa0000/Trash_Delivery_Robot_Design_Project/blob/master/Documentation/Final%20Poster.pdf).
+
 Final product:
+
 ![alt text](https://github.com/yymmaa0000/Trash_Delivery_Robot_Design_Project/blob/master/Documentation/Final%20product.jpg)
 
 CAD rendering:
+
 ![alt text](https://github.com/yymmaa0000/Trash_Delivery_Robot_Design_Project/blob/master/Documentation/CAD.jpg)
 
-State machine diagram
-![alt text](https://github.com/yymmaa0000/Trash_Delivery_Robot_Design_Project/blob/master/Documentation/State%20Machine.jpg)
+
